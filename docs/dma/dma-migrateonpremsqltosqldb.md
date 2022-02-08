@@ -95,6 +95,10 @@ This article provides step-by-step instructions for migrating SQL Server on-prem
 3. Review the generated script.
 
     ![Generated script](../dma/media/generated-script.png)
+    
+    
+     > [!NOTE]
+     > DMA does not support migrating synonyms.
 
 ## Deploy schema
 
